@@ -8,4 +8,4 @@ MovieNightGPT is a personal, user-controlled tool.
 - No data is shared with third parties.
 - GitHub API access is used only to update files explicitly owned by the user.
 
-This tool runs entirely client-side and through user-authorized GitHub actions.
+This application uses the public YouTube Data API to search and display publicly available full-length movies. No YouTube user data is accessed, stored, or processed.
